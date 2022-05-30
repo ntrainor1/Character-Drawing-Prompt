@@ -1,0 +1,2 @@
+# Character-Drawing-Prompt
+This was just a quick Java program I made that provides character drawing prompts based around five ranks (king, queen, knight wizard, and knave) with different themes attached to them. As you go through the different themes, you will notice that some of them are very similar, almost to the point of being duplicates. However, this was intentional as it helps challenge my brain to come up with more distinct ways or different designs for characters with similar themes.
